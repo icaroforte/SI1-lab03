@@ -1,0 +1,44 @@
+run
+exit
+run
+eclipse
+eclipse with-source-true
+run
+eclipse
+eclipse with-source-true
+eclipse skip-parents=false
+eclipse:skip-parents=false
+eclipse:
+addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse-plugin" % "4.0.0")
+eclipse
+run
+last:run
+last
+last compile:run
+compile:run
+last compile:run
+run
+exit
+run
+eclipse
+compile
+compile run
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run

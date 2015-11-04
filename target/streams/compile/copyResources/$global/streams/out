@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/icaro/activator-dist-1.3.6/app1/conf/application.conf~,/home/icaro/activator-dist-1.3.6/app1/target/scala-2.11/classes/application.conf~)[0m
+[0m[[0mdebug[0m] [0m	(/home/icaro/activator-dist-1.3.6/app1/conf/routes,/home/icaro/activator-dist-1.3.6/app1/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/icaro/activator-dist-1.3.6/app1/conf/META-INF,/home/icaro/activator-dist-1.3.6/app1/target/scala-2.11/classes/META-INF)[0m
+[0m[[0mdebug[0m] [0m	(/home/icaro/activator-dist-1.3.6/app1/conf/application.conf,/home/icaro/activator-dist-1.3.6/app1/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/icaro/activator-dist-1.3.6/app1/conf/logback.xml,/home/icaro/activator-dist-1.3.6/app1/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/icaro/activator-dist-1.3.6/app1/conf/META-INF/persistence.xml,/home/icaro/activator-dist-1.3.6/app1/target/scala-2.11/classes/META-INF/persistence.xml)[0m
