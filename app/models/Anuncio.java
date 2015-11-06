@@ -5,12 +5,11 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
 
-import javax.persistence.CascadeType;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import javax.persistence.OneToMany;
 import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
@@ -69,7 +68,8 @@ public class Anuncio implements Serializable{
 		
 	}
 	//Construtor com parâmetros
-	public Anuncio(String titulo, String cidade, String bairro, String finalidadeAnuncio, String descricao, ArrayList<String> contato, ArrayList<String> instrumentos, ArrayList<String> estiloGosta, ArrayList<String> estiloNaoGosta, String excluir) throws Exception{
+	public Anuncio(String titulo, String cidade, String bairro, String finalidadeAnuncio, String descricao, ArrayList<String> contato, 
+			ArrayList<String> instrumentos, ArrayList<String> estiloGosta, ArrayList<String> estiloNaoGosta, String excluir) throws Exception{
 		setTitulo(titulo);
 		setCidade(cidade);
 		setBairro(bairro);

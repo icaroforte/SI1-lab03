@@ -20,8 +20,7 @@ import views.html.*;
 public class Application extends Controller {
 
 	//Acessar os metodos de persistencia.
-	private static final GenericDAO dao = new GenericDAO();
-	String nome;
+	private static final GenericDAO dao = new GenericDAO();	
 	
 	//Pega o que tiver no banco de dados com a entidade Anuncio.
 	@Transactional
